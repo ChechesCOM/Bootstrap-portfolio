@@ -1,0 +1,33 @@
+body 
+{
+    background-image: url("http://www.astroeder.com/rimg/92/0/356_1239_609a3cd2_ic1805nb_ederL.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    color: orange;
+
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:green;
+    margin-bottom: 30px;
+    margin-right: 1050px;
+    
+
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:orange;
+   margin-bottom: 30px;
+   
+
+}
+
+.nav {
+    font-weight: bold
+}
+
+
+
